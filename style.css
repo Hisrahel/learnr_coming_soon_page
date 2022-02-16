@@ -70,6 +70,12 @@
     }
     .comingpage{
         text-align: center !important;
+        font-size: small;
+    }
+    .comingimage{
+        width: 25%;
+        padding-top: 40px;
+        margin: auto;
     }
 }
 @media (min-width: 576px) and (max-width: 767px) {
